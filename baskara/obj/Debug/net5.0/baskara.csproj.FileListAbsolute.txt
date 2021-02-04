@@ -1,0 +1,16 @@
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\baskara.exe
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\baskara.deps.json
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\baskara.runtimeconfig.json
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\baskara.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\baskara.dll
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\ref\baskara.dll
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\bin\Debug\net5.0\baskara.pdb
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.dll
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\ref\baskara.dll
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.pdb
+C:\Users\Marcelo\Desktop\portifolio\testes\baskara\obj\Debug\net5.0\baskara.genruntimeconfig.cache
